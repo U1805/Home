@@ -1,0 +1,1 @@
+function jimmyhitokoto(){document.write("己所欲者，杀而夺之，亦同天赐");}
