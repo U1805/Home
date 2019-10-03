@@ -1096,7 +1096,13 @@
 			-webkit-transition: -webkit-transform 0.325s ease-in-out, -webkit-filter 0.325s ease-in-out;
 			-ms-transition: -ms-transform 0.325s ease-in-out, -ms-filter 0.325s ease-in-out;
 			transition: transform 0.325s ease-in-out, filter 0.325s ease-in-out;
-			background-image: url("https://img.xjh.me/random_img.php?return=302");/* http://img.xjh.me/ 调用限制：每分钟不大于90次；每小时不大于2000次；每天调用上限10000次；替换：../images/background.jpg*/
+			background-image: url("http://api.mtyqx.cn/api/random.php");			
+				/* http://api.mtyqx.cn/api/random.php
+				http://api.mtyqx.cn/tapi/random.php
+				https://api.ixiaowai.cn/api/api.php
+				https://api.ixiaowai.cn/mcapi/mcapi.php（mc酱）
+				https://img.xjh.me/random_img.php?return=302
+				替换：../images/background.jpg*/
             background-repeat: no-repeat;
 			background-position: center;
 			background-size: cover;
